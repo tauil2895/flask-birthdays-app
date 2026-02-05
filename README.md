@@ -70,7 +70,7 @@ python app.py
 ![Login Page](static/images/add-birthday.png)
 
 ### 2️⃣ Birthday Table
-- **Description:** Lists all added birthdays in a simple table. Can be expanded with future features like sorting or deleting.  
+- **Description:** Lists all added birthdays in a simple table.
 - **Screenshot:**  
 ![Birthday Table](static/images/birthday-table.png)
 
