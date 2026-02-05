@@ -68,22 +68,22 @@ python app.py
 ### 1️⃣ Index Page (Dashboard)
 - **Description:** Users can browse featured products and navigate the store.
 - **Screenshot:**  
-![Index Page](static/images/index.png)  
+![Index Page](static/screenshots/index.png)  
 
 ### 2️⃣ Product Page
 - **Description:** Each product shows image, price, and “Add to Cart” button.  
 - **Screenshot:**  
-![Product Page](static/images/product_index.png)
+![Product Page](static/screenshots/product_index.png)
 
 ### 3️⃣ Shopping cart
 - **Description:** Users can update quantities or remove items before checkout. 
 - **Screenshot:**  
-![Shopping cart](static/images/shopping-cart.png)
+![Shopping cart](static/screenshots/shopping-cart.png)
 
 ### 4️⃣ Checkout
 - **Description:** Users can review their order and place it securely.
 - **Screenshot:**  
-![Checkout](static/images/checkout.png)  
+![Checkout](static/screenshots/checkout.png)  
 
 ### 5️⃣ Admin Dashboard
 - **Description:** Admins can add/update new users, manage roles, and view users.
