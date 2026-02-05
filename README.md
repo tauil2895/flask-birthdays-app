@@ -68,26 +68,26 @@ python app.py
 ### 1️⃣ Index Page (Dashboard)
 - **Description:** Users can browse featured products and navigate the store.
 - **Screenshot:**  
-![Index Page](static/images/add-birthday.png)  
+![Index Page](static/images/index.png)  
 
 ### 2️⃣ Product Page
 - **Description:** Each product shows image, price, and “Add to Cart” button.  
 - **Screenshot:**  
-![Product Page](static/images/birthday-table.png)
+![Product Page](static/images/product_index.png)
 
 ### 3️⃣ Shopping cart
 - **Description:** Users can update quantities or remove items before checkout. 
 - **Screenshot:**  
-![Shopping cart](static/images/birthday-table.png)
+![Shopping cart](static/images/shopping-cart.png)
 
 ### 4️⃣ Checkout
 - **Description:** Users can review their order and place it securely.
 - **Screenshot:**  
-![Checkout](static/images/birthday-table.png)  
+![Checkout](static/images/checkout.png)  
 
 ### 5️⃣ Admin Dashboard
 - **Description:** Admins can add/update new users, manage roles, and view users.
 - **Also:** Admins can add/update products, manage categories, and view orders.
 - **Screenshot:**  
-![Admin Dashboard](static/screenshots/birthday-table.png)  
+![Admin Dashboard](static/screenshots/admin_users.png)  
 
