@@ -54,7 +54,6 @@ python app.py
 
 4. Open your browser and go to the right location
 
-
 ## Usage
 
 1. Enter a name, month, and day in the form.
@@ -66,28 +65,12 @@ python app.py
 ## 📸 Screenshots & Page Descriptions
 
 ### 1️⃣ Index Page (Dashboard)
-- **Description:** Users can browse featured products and navigate the store.
+- **Description:** Shows a form to add new birthdays and a table listing all birthdays.  
 - **Screenshot:**  
-![Index Page](static/screenshots/index.png)  
+![Login Page](images/login.png)
 
-### 2️⃣ Product Page
-- **Description:** Each product shows image, price, and “Add to Cart” button.  
+### 2️⃣ Birthday Table
+- **Description:** Lists all added birthdays in a simple table. Can be expanded with future features like sorting or deleting.  
 - **Screenshot:**  
-![Product Page](static/screenshots/product_index.png)
-
-### 3️⃣ Shopping cart
-- **Description:** Users can update quantities or remove items before checkout. 
-- **Screenshot:**  
-![Shopping cart](static/screenshots/shopping-cart.png)
-
-### 4️⃣ Checkout
-- **Description:** Users can review their order and place it securely.
-- **Screenshot:**  
-![Checkout](static/screenshots/checkout.png)  
-
-### 5️⃣ Admin Dashboard
-- **Description:** Admins can add/update new users, manage roles, and view users.
-- **Also:** Admins can add/update products, manage categories, and view orders.
-- **Screenshot:**  
-![Admin Dashboard](static/screenshots/admin_users.png)  
+![Birthday Table](images/birthday-table.png)
 
