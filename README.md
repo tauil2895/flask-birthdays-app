@@ -67,10 +67,10 @@ python app.py
 ### 1️⃣ Index Page (Dashboard)
 - **Description:** Shows a form to add new birthdays and a table listing all birthdays.  
 - **Screenshot:**  
-![Login Page](images/add-birthday.png)
+![Login Page](statics/images/add-birthday.png)
 
 ### 2️⃣ Birthday Table
 - **Description:** Lists all added birthdays in a simple table. Can be expanded with future features like sorting or deleting.  
 - **Screenshot:**  
-![Birthday Table](images/birthday-table.png)
+![Birthday Table](statics/images/birthday-table.png)
 
