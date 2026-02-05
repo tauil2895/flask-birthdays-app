@@ -22,19 +22,17 @@ A simple **Flask web application** to track birthdays. Users can add names and b
 flask-birthdays-app/
 ├── app.py # Main Flask application
 
-├── requirements.txt # Python dependencies
-
-├── README.md # Project documentation
+├── README.md
 
 ├── static/
 
-│ ├── styles.css # CSS styles
+│ ├── styles.css
 
-│ └── images/ # Screenshots (optional)
+│ └── images/
 
 └── templates/
 
-└── index.html # Main HTML template
+└── index.html
 
 ---
 
